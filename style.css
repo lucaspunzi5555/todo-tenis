@@ -1,0 +1,188 @@
+body{
+
+    background-color: darkgoldenrod;
+}
+
+.titulo{
+
+    color: greenyellow;
+    text-align: center;
+    font-size: 60px;
+    
+    }
+    .tituloslams{
+    
+        color: rgb(236, 93, 10);
+        text-align: center;
+        font-size: 60px;
+        opacity: 0.3;
+    
+    }
+    
+    .lista{
+        color: rgb(126, 123, 123);
+        text-align: center;
+        font-size: 30px;
+        list-style: none;
+    
+    }
+    
+    .titulovid{
+    
+        color: white;
+        text-align: center;
+        font-size: 60px;
+        padding: 50px;
+    
+    }
+    
+    .titulob4{
+    
+    
+        color: rgb(65, 38, 38);
+        text-align: center;
+        font-size: 60px;
+        padding: 50px;
+    
+    }
+    
+    
+    
+    
+    
+         .textos{
+    
+    padding: 20px;
+    text-align: center;
+    font-size: larger;
+    color: beige;
+    
+         }
+    .texto2{
+    
+            padding: 15px;
+            text-align: center;
+            font-size: larger;
+            color: crimson;
+        
+        }
+    
+        .textob4{
+    
+            padding: 15px;
+            text-align: center;
+            font-size: larger;
+            color: rgb(165, 48, 48);
+    
+        }
+    
+    .fotoranking{
+    
+        display: block;
+        margin: auto;
+        width:500px ;
+        height:900px;
+    }
+    
+    .tituloran{
+    text-align: center;
+    color: rgb(211, 151, 108);
+    padding: 5px;}
+    
+    
+    .titulohis{
+    
+        font-size: 40px;
+        color:  rgb(235, 51, 51);
+        text-align: center;
+        padding-top: 70px;
+        padding-bottom: 30px;
+    
+    
+    
+    
+    }
+    
+    
+    .tituloriv{
+        font-size: 40px;
+        color:  rgb(144, 115, 197);
+        text-align: center;
+        padding-top: 90px;
+        
+    }
+    
+    
+    
+    .rankings{
+        display: block;
+        margin: auto;
+        width: 600px;
+        height: 500px;
+        background-color: black;
+        overflow: scroll;
+        
+    
+    }
+    
+    .imagenes{
+    display: block;
+    margin: auto;
+    width: 750px;
+    height: 500px;
+    border-radius: 10px;
+    border-style: hidden;
+    border: solid;
+    border-color: bisque;
+    
+    
+    
+    }
+    
+    
+    .absolute{
+    
+        position: absolute;
+        color: rgb(68, 11, 11);
+        right: 0px;
+        border: solid;
+        background-color: rgb(36, 68, 5);
+    }
+    
+    .posicion{
+    
+        position: relative;
+        left: 0px;
+        
+    }
+    
+    .blue{
+    
+    color: rgb(131, 113, 172);
+    
+    }
+    
+    .fixed{
+    
+        position: fixed;
+        bottom: 0px;
+        left: 0px;
+    }
+    
+    .button{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(50, 161, 161);
+    
+    }
+    
+    .form{
+    
+    
+        text-align: center;
+        font-size: 30px;
+        padding-top: 50px;
+    
+    
+    
+    }
