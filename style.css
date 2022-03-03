@@ -2,6 +2,19 @@ body{
 
     background-color: darkgoldenrod;
 }
+.negro{
+
+    background-color: black;
+}
+.azul{
+
+    background-color: blue;
+}
+
+.gris{
+
+    color: grey;
+}
 
 .titulo{
 
